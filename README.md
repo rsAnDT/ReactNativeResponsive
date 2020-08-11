@@ -9,3 +9,6 @@ default screen Android : 480x800
 
 default screen IOS : 750x1334
 
+Ex : 
+
+
