@@ -1,0 +1,33 @@
+{
+  "name": "@dotrongan/react-native-responsive",
+  "version": "1.0.0",
+  "description": "react native responsive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andt1/ReactNativeResponsive.git"
+  },
+  "keywords": [
+    "react-native",
+    "responsive",
+    "scale",
+    "multiple",
+    "screen"
+  ],
+  "author": "Do Trong An <dotrongan2806@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andt1/ReactNativeResponsive/issues"
+  },
+  "homepage": "https://github.com/andt1/ReactNativeResponsive#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  }
+}
